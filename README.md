@@ -1,72 +1,38 @@
-# Electrolysis Rocket 🚀
+### 🚀 Concept: A Rocket Powered by Water
 
-A visionary open-source concept: use onboard batteries to split distilled water into hydrogen and oxygen via electrolysis, then ignite the resulting gases to create rocket propulsion.
+This concept proposes a rocket that uses **distilled water as the sole onboard propellant**.
 
----
+Through high-density batteries, the water is **split via electrolysis** into hydrogen and oxygen, which are immediately combusted to generate thrust — producing nothing but water vapor.
 
-## 🌍 Why This Idea Matters
+### 🔥 Why H₂ + O₂ is the ultimate fuel
 
-Current rockets rely on expensive and complex fuels like kerosene + oxygen or liquid hydrogen.  
-This concept proposes a new path:
+- The combination of **hydrogen and oxygen** is **the most energy-efficient chemical rocket propellant known**, delivering specific impulse up to **450 seconds** in vacuum.
+- It produces **no toxic byproducts** — just water vapor.
+- **Combustion energy per kilogram** of hydrogen far exceeds that of kerosene or methane.
+- Most importantly: **Electrolysis of water yields H₂ and O₂ in the exact stoichiometric ratio needed for ideal combustion** (2:1 by volume, ~1:8 by mass).  
+  → Nature itself delivers a perfect, ready-to-burn fuel mix — no metering, no mixing, no precision valves.
 
-> **Water** — abundant, cheap, safe — as the **only propellant source**.
+### 💧 Why Water Is the Ideal Stored Propellant
 
-Powered by future **high-density batteries**, this could revolutionize low-cost orbital and suborbital launch systems.
+- **Water has a density of ~1,000 kg/m³** — far higher than liquid hydrogen (~70 kg/m³) and comparable to RP-1.
+- It is **non-toxic**, **non-flammable**, **requires no cryogenics**, and is **cheap and abundant**.
+- In this design, energy is stored in batteries and **mass is stored in dense, safe water** — not volatile fuels.
 
----
+Unlike traditional cryogenic storage of liquid hydrogen and oxygen, this system stores all its chemical energy in a **single stable, compact, and storable substance**: water.
 
-## ⚙️ How It Works
+### ⚠️ The One Limitation — and the Future
 
-1. **Distilled water** is stored onboard.
-2. **High-density batteries** perform electrolysis, splitting water into **H₂** and **O₂**.
-3. These gases are fed into a **combustion chamber**.
-4. The resulting thrust **propels the rocket**.
+To make this feasible, battery technology must reach **energy densities around 30,000 Wh/kg**.  
+Today’s best batteries offer ~300 Wh/kg — a 100x gap.
 
----
+But advances in **AI-driven materials science** and **next-gen solid-state batteries** could bridge this gap in **5–10 years**.
 
-## ⚠️ Technical Challenges
+### 🌍 If Realized…
 
-🔋 Current battery energy density is too low for space applications:  
-• Required for orbital flight: ~30,000 Wh/kg  
-• State-of-the-art today: ~300 Wh/kg
+This concept could **revolutionize space and missile propulsion**:
+- No toxic fuels or environmental risks  
+- No fragile cryogenics  
+- Ultra-simple supply chain  
+- Fuel = water
 
-🪶 Total system mass must be minimized  
-⚙️ Energy conversion efficiency must be significantly improved
-
----
-
-## 🚀 Potential Applications
-
-- Low-cost satellite launches (like Starlink)  
-- On-demand suborbital flights  
-- Planetary ascent systems (e.g. Moon, Mars)  
-- Military or civil rapid payload delivery
-
----
-
-## 🤝 How You Can Help
-
-- ⭐ Star this repo  
-- 🗣️ Share the idea on social media  
-- 🛠️ Suggest improvements or technical feedback  
-- 🧠 Help simulate or visualize the system  
-- 🧪 Support prototype development
-
----
-
-## 📫 Contact
-
-**Pavlo Babchynskyi**  
-📧 [babchinskiy@gmail.com](mailto:babchinskiy@gmail.com)  
-🇺🇦 Ukraine
-
----
-
-## 📄 License
-
-This idea is open and free to use.  
-If you build upon it, please **credit the author** 🙏
-
----
-
-> _“Today it's a vision. Tomorrow it could be reality.”_
+If achieved, this is a clean, scalable, radically simpler rocket architecture — made possible by one of the most abundant and benign substances on Earth.
