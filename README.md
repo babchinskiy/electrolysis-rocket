@@ -26,13 +26,12 @@ Powered by future **high-density batteries**, this could revolutionize low-cost 
 
 ## ⚠️ Technical Challenges
 
-- 🔋 **Battery energy density** is currently too low  
-  • Required: ~30,000 Wh/kg  
-  • Current: ~300 Wh/kg
+🔋 Current battery energy density is too low for space applications:  
+• Required for orbital flight: ~30,000 Wh/kg  
+• State-of-the-art today: ~300 Wh/kg
 
-- 🛰️ **Mass must be minimized** to reach orbit
-
-- ⚡ **Conversion efficiency** needs major improvement
+🪶 Total system mass must be minimized  
+⚙️ Energy conversion efficiency must be significantly improved
 
 ---
 
